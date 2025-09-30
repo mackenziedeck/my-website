@@ -1,0 +1,57 @@
+.header { 
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    text-align: center;
+    margin-bottom: 5%;
+    font-family: "Akaya Kanadaka";
+    color: #0A2342 ;
+}
+
+.header img {
+    width: 70px;
+    height: auto;
+    border: 2px solid #0A2342;
+}
+
+.sidebar  { 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    min-height: 150px;
+    border: 2px solid #0A2342 ;
+    text-align: center;
+    color: #0A2342;
+}
+
+
+body { 
+    font-family: "Dongle";
+    background-color: #537D8D;
+}
+
+
+.container { 
+    border: 2px solid #0A2342 ;
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+}
+
+#welcometext { 
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    color: #0A2342;
+}
+
+#welcomeimg { 
+    display: inline-block;
+    vertical-align: top;
+}
+
+#welcomeimg img { 
+    max-width: 300px;
+    height: auto;
+    margin-left: 400px;
+}
