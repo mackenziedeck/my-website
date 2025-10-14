@@ -43,15 +43,19 @@ body {
     vertical-align: top;
     text-align: left;
     color: #0A2342;
+    font-size: x-large;
+    width: 70%;
 }
 
 #welcomeimg { 
     display: inline-block;
     vertical-align: top;
+    width: 25%;
 }
 
 #welcomeimg img { 
-    max-width: 300px;
+    display: inline-block;
+    max-width: 400px;
     height: auto;
-    margin-left: 400px;
+    margin-left: 500px;
 }

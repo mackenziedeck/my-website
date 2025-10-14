@@ -1,0 +1,24 @@
+#header { 
+    text-align: center;
+    font-family: "Akaya Kanadaka";
+    color: #0A2342 ;
+}
+
+body { 
+    font-family: "Dongle";
+    background-color: #537D8D;
+}
+
+h2 { 
+   color: #0A2342 ;
+   font-size: xx-large;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+p {
+    font-size: x-large;
+}
+

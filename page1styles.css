@@ -1,0 +1,31 @@
+#header { 
+    text-align: center;
+    font-family: "Akaya Kanadaka";
+    color: #0A2342 ;
+}
+
+body { 
+    font-family: "Dongle";
+    background-color: #537D8D;
+}
+
+article {
+    width: 80%;
+}
+
+#fish {
+    font-size: xx-large;
+    font: bold;
+}
+
+#desc {
+    font-size: x-large;
+}
+
+#fishimg {
+    max-width: 300px;
+    max-height: 200px;
+}
+
+
+
