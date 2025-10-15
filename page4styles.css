@@ -27,25 +27,3 @@ body {
     font-family: "Dongle";
     background-color: #537D8D;
 }
-
-article {
-    width: 80%;
-}
-
-#fish {
-    font-size: xx-large;
-    font: bold;
-    color: #0A2342 ;
-}
-
-#desc {
-    font-size: x-large;
-}
-
-#fishimg {
-    max-width: 300px;
-    max-height: 200px;
-}
-
-
-
