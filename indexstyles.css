@@ -1,3 +1,7 @@
+/*  Change link colors  a {color: #0A2342 }   */
+
+
+
 .header { 
     text-align: center;
     font-family: "Akaya Kanadaka";
@@ -11,6 +15,10 @@
     margin-bottom: 50px;
 }
 
+a {
+    text-decoration: none;
+    color: #D9E5D6;
+}
 
 .navmenu {
     text-align: left;
@@ -25,8 +33,7 @@
 .navmenu p {
     display: inline-block;
     margin: 0 20px;
-    color: #0A2342;
-    font-weight: bold;
+    font-size: x-large;
 }
 
 

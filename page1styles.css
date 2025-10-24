@@ -6,6 +6,11 @@
     margin-bottom: 50px;
 }
 
+a {
+    text-decoration: none;
+    color: #D9E5D6;
+}
+
 .navmenu {
     text-align: left;
     margin-bottom: 0;
@@ -19,8 +24,7 @@
 .navmenu p {
     display: inline-block;
     margin: 0 20px;
-    color: #0A2342;
-    font-weight: bold;
+    font-size: x-large;
 }
 
 body { 
