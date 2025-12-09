@@ -31,3 +31,20 @@ body {
     font-family: "Dongle";
     background-color: #537D8D;
 }
+
+body > h2 { 
+   color: #0A2342 ;
+   font-size: xx-large;
+}
+
+body > h3 {
+    font-size: x-large;
+}
+
+body > p {
+    font-size: x-large;
+}
+
+body > ul {
+    font-size: large;
+}
